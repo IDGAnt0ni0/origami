@@ -1,0 +1,8 @@
+h1{
+    color:rgb(255, 255, 255);
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-between;
+}
